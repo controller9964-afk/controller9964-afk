@@ -109,8 +109,8 @@ Explore my repositories to discover my development work.
 
 I'm interested in collaborating on challenging projects involving full-stack development, artificial intelligence, automation, APIs, and scalable software systems.
 
-- 💼 GitHub: [@YOUR_USERNAME](https://github.com/controller9964-afk)
-- 🌐 Portfolio: [Your Portfolio Website](https://mj9999.vercel.app)
+- 💼 GitHub: https://github.com/controller9964-afk
+- 🌐 Portfolio: https://mj9999.vercel.app
 - 💬 Open to: Freelance projects, software development collaborations, and AI engineering opportunities
 
 **Have an idea to build? Let's turn it into a working product!** 🚀
