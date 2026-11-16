@@ -1,13 +1,20 @@
-# 👋 Hey, I'm a Senior Full-Stack & AI Developer
+# 🌌 Full-Stack & AI Developer
 
-<h1 align="center">Building Scalable Applications & Intelligent Solutions 🚀</h1>
+<!-- Animated Cosmic Header -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,20:24105C,45:5B21B6,70:0077FF,100:00D4FF&height=220&section=header&text=Full-Stack%20%26%20AI%20Developer&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Building%20Scalable%20Applications%20%26%20Intelligent%20Solutions&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Animated cosmic Full-Stack and AI Developer banner"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Developer;AI+%26+LLM+Integration+Specialist;SaaS+Application+Developer;Building+Scalable+Software+Solutions;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -66,7 +73,7 @@ I enjoy transforming complex ideas into practical products, designing reliable a
 ### 🛒 E-commerce & CMS
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify&theme=dark" alt="CMS technologies" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
 </p>
 
 <p align="left">
@@ -79,7 +86,7 @@ I enjoy transforming complex ideas into practical products, designing reliable a
 
 ---
 
-## 🚀 Selected Project Experience
+## 🚀 Featured Project Experience
 
 | Project | Description |
 |---|---|
@@ -88,6 +95,27 @@ I enjoy transforming complex ideas into practical products, designing reliable a
 | AI-Powered E-commerce | E-commerce applications with AI capabilities |
 | API Performance Optimization | API response-time improvements of approximately 40% |
 | E-commerce Migration | Migration of approximately 500 WooCommerce products to Shopify |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
@@ -103,14 +131,15 @@ I'm interested in connecting with developers, SaaS founders, entrepreneurs, and 
     <img src="https://img.shields.io/badge/Website-HigherTech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>💡 Turning ideas into software. Building technology that makes a difference.</b>
+  <b>✨ Turning ideas into software. Building technology that makes a difference. 🚀</b>
 </p>
 
+<!-- Animated Footer -->
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:0077FF,70:5B21B6,100:05001A&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cosmic footer" />
 </p>
