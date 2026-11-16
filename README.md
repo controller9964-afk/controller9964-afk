@@ -1,4 +1,3 @@
-# <img width="125" height="125" alt="headshot_rounded_transparent" src="https://github.com/user-attachments/assets/267e127c-a6a4-45bc-95d1-440955854301" />
  Full-Stack Developer & AI Engineer
 
 ### Building intelligent applications, scalable web platforms, and modern software solutions.
