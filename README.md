@@ -1,20 +1,7 @@
 # 🌌 Full-Stack & AI Developer
 
-<!-- Animated Cosmic Header -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,20:24105C,45:5B21B6,70:0077FF,100:00D4FF&height=220&section=header&text=Full-Stack%20%26%20AI%20Developer&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Building%20Scalable%20Applications%20%26%20Intelligent%20Solutions&descAlignY=58&descSize=16"
-    width="100%"
-    alt="Animated cosmic Full-Stack and AI Developer banner"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Developer;AI+%26+LLM+Integration+Specialist;SaaS+Application+Developer;Building+Scalable+Software+Solutions;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&height=80&lines=FULL-STACK+%26+AI+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;ENGINEERING+THE+FUTURE" alt="Full-Stack and AI Developer" />
 </p>
 
 ---
