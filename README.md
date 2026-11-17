@@ -1,7 +1,7 @@
 # 🌌 AI automation & agent developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&height=80&lines=FULL-STACK+%26+AI+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;ENGINEERING+THE+FUTURE" alt="Full-Stack and AI Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&height=80&lines=AUTOMATION+%26+AI-AGENT+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;ENGINEERING+THE+FUTURE" alt="Full-Stack and AI Developer" />
 </p>
 
 ---
