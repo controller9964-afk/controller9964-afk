@@ -1,7 +1,11 @@
-# 🌌 AI automation & agent developer
+# 🌌 AI Automation & Agent Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&height=80&lines=AUTOMATION+%26+AI-AGENT+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;ENGINEERING+THE+FUTURE" alt="Full-Stack and AI Developer" />
+  <img src="./assets/ai-hero-3d.svg" width="100%" alt="3D Animated AI Automation and Agent Developer" />
+</p>
+
+<p align="center">
+  <b>Building Intelligent Systems · Automating Workflows · Engineering AI-Powered Solutions</b>
 </p>
 
 ---
@@ -25,51 +29,97 @@ I enjoy transforming complex ideas into practical products, designing reliable a
 
 ### 🤖 AI & Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI technologies" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6C43E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chroma-5B4BDB?style=for-the-badge" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="42"/><br/><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="42"/><br/><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="42"/><br/><sub>TensorFlow</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" height="25"/><br/><sub>OpenAI API</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AI-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="25"/><br/><sub>LangChain</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="25"/><br/><sub>LangGraph</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="25"/><br/><sub>Hugging Face</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="25"/><br/><sub>Ollama</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AI-LlamaIndex-6C43E0?style=flat-square" height="25"/><br/><sub>LlamaIndex</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/DB-Chroma-5B4BDB?style=flat-square" height="25"/><br/><sub>Chroma</sub></td>
+  </tr>
+</table>
 
 ### 💻 Full-Stack Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,fastapi,postgres,mongodb,redis&theme=dark" alt="Full-stack technologies" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="42"/><br/><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="42"/><br/><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="42"/><br/><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="42"/><br/><sub>Next.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="42"/><br/><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="42"/><br/><sub>Express</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="42"/><br/><sub>NestJS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="42"/><br/><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/><br/><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="42"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="42"/><br/><sub>MongoDB</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="42"/><br/><sub>Redis</sub></td>
+  </tr>
+</table>
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,githubactions,linux,nginx,git&theme=dark" alt="Cloud and DevOps technologies" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="42"/><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="42"/><br/><sub>Kubernetes</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="42"/><br/><sub>AWS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" height="42"/><br/><sub>Azure</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="42"/><br/><sub>Google Cloud</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" height="42"/><br/><sub>Terraform</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="42"/><br/><sub>GitHub Actions</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="42"/><br/><sub>Linux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" height="42"/><br/><sub>Nginx</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="42"/><br/><sub>Git</sub></td>
+  </tr>
+</table>
 
 ### 📱 Mobile Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=reactnative,expo,flutter,dart,kotlin,swift,firebase,supabase,androidstudio&theme=dark" alt="Mobile development technologies" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="42"/><br/><sub>React Native</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=expo" height="42"/><br/><sub>Expo</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" height="42"/><br/><sub>Flutter</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" height="42"/><br/><sub>Dart</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="42"/><br/><sub>Kotlin</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift" height="42"/><br/><sub>Swift</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="42"/><br/><sub>Firebase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="42"/><br/><sub>Supabase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" height="42"/><br/><sub>Android Studio</sub></td>
+  </tr>
+</table>
 
 ### 🛒 E-commerce & CMS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" height="42"/><br/><sub>WordPress</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" height="25"/><br/><sub>Shopify</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" height="25"/><br/><sub>WooCommerce</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="25"/><br/><sub>Stripe</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="25"/><br/><sub>GraphQL</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" height="25"/><br/><sub>Sanity</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -99,13 +149,13 @@ I'm interested in connecting with developers, SaaS founders, entrepreneurs, and 
 
 <p align="left">
   <a href="https://henskens-tech.be">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://highertech.nl">
-    <img src="https://img.shields.io/badge/Website-HigherTech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-HigherTech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HigherTech" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -113,7 +163,6 @@ I'm interested in connecting with developers, SaaS founders, entrepreneurs, and 
   <b>✨ Turning ideas into software. Building technology that makes a difference. 🚀</b>
 </p>
 
-<!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:0077FF,70:5B21B6,100:05001A&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cosmic footer" />
 </p>
