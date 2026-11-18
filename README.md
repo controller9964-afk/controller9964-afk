@@ -1,125 +1,132 @@
-<div align="center">
+# 🌌 AI automation & agent developer
 
-<img src="./assets/ai-hero-3d.svg" alt="AI Automation and Agent Developer — animated 3D headline" width="100%" />
-
-# AI Automation & Agent Developer
-
-**Building intelligent solutions with AI, automation, and full-stack engineering.**
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&height=80&lines=AUTOMATION+%26+AI-AGENT+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;ENGINEERING+THE+FUTURE" alt="Full-Stack and AI Developer" />
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a full-stack developer focused on AI-powered applications, automation, and intelligent agents. I build end-to-end products—from backend services and APIs to modern web and mobile interfaces—and integrate LLMs into practical, reliable workflows.
+I'm a software developer with **8+ years of experience** building modern web applications, scalable backend systems, SaaS platforms, and AI-powered solutions.
 
-My work spans application architecture, API development, data systems, AI integrations, deployment, and ongoing improvement.
+I enjoy transforming complex ideas into practical products, designing reliable architectures, integrating intelligent AI capabilities, and solving real-world business problems through technology.
 
-## Tech Stack
-
-### AI, Machine Learning & LLMs
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /><br/><sub>Python</sub></a>&nbsp;&nbsp;
-  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" /><br/><sub>PyTorch</sub></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" /><br/><sub>TensorFlow</sub></a>&nbsp;&nbsp;
-  <a href="https://platform.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="42" alt="OpenAI" /><br/><sub>OpenAI API</sub></a>&nbsp;&nbsp;
-  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="42" alt="LangChain" /><br/><sub>LangChain</sub></a>&nbsp;&nbsp;
-  <a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="42" alt="LangGraph" /><br/><sub>LangGraph</sub></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" /><br/><sub>Hugging Face</sub></a>&nbsp;&nbsp;
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="42" alt="Ollama" /><br/><sub>Ollama</sub></a>&nbsp;&nbsp;
-  <a href="https://www.llamaindex.ai/"><img src="https://cdn.simpleicons.org/llamaindex/6B4FBB" height="42" alt="LlamaIndex" /><br/><sub>LlamaIndex</sub></a>&nbsp;&nbsp;
-  <a href="https://www.trychroma.com/"><img src="https://cdn.simpleicons.org/chroma/FF6F61" height="42" alt="Chroma" /><br/><sub>Chroma</sub></a>
-</p>
-
-### Frontend & Backend
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript" /><br/><sub>JavaScript</sub></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" /><br/><sub>TypeScript</sub></a>&nbsp;&nbsp;
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /><br/><sub>React</sub></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" /><br/><sub>Next.js</sub></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /><br/><sub>Node.js</sub></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" /><br/><sub>Express</sub></a>&nbsp;&nbsp;
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="NestJS" /><br/><sub>NestJS</sub></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI" /><br/><sub>FastAPI</sub></a>
-</p>
-
-### Databases & Data
-
-<p align="center">
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" /><br/><sub>MongoDB</sub></a>&nbsp;&nbsp;
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" /><br/><sub>Redis</sub></a>
-</p>
-
-### Cloud, DevOps & Tools
-
-<p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" /><br/><sub>AWS</sub></a>&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" height="42" alt="Azure" /><br/><sub>Azure</sub></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="42" alt="Google Cloud" /><br/><sub>GCP</sub></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /><br/><sub>Docker</sub></a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="Kubernetes" /><br/><sub>Kubernetes</sub></a>&nbsp;&nbsp;
-  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" /><br/><sub>Terraform</sub></a>&nbsp;&nbsp;
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" /><br/><sub>Linux</sub></a>&nbsp;&nbsp;
-  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" /><br/><sub>Nginx</sub></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /><br/><sub>Git</sub></a>
-</p>
-
-### Mobile Development
-
-<p align="center">
-  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React Native" /><br/><sub>React Native</sub></a>&nbsp;&nbsp;
-  <a href="https://expo.dev/"><img src="https://cdn.simpleicons.org/expo/000020" height="42" alt="Expo" /><br/><sub>Expo</sub></a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="42" alt="Flutter" /><br/><sub>Flutter</sub></a>&nbsp;&nbsp;
-  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="42" alt="Dart" /><br/><sub>Dart</sub></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="42" alt="Kotlin" /><br/><sub>Kotlin</sub></a>&nbsp;&nbsp;
-  <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" height="42" alt="Swift" /><br/><sub>Swift</sub></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" /><br/><sub>Firebase</sub></a>&nbsp;&nbsp;
-  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="42" alt="Supabase" /><br/><sub>Supabase</sub></a>
-</p>
-
-### E-commerce & CMS
-
-<p align="center">
-  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="42" alt="WordPress" /><br/><sub>WordPress</sub></a>&nbsp;&nbsp;
-  <a href="https://www.shopify.com/"><img src="https://cdn.simpleicons.org/shopify/7AB55C" height="42" alt="Shopify" /><br/><sub>Shopify</sub></a>&nbsp;&nbsp;
-  <a href="https://woocommerce.com/"><img src="https://cdn.simpleicons.org/woocommerce/96588A" height="42" alt="WooCommerce" /><br/><sub>WooCommerce</sub></a>&nbsp;&nbsp;
-  <a href="https://stripe.com/"><img src="https://skillicons.dev/icons?i=stripe" height="42" alt="Stripe" /><br/><sub>Stripe</sub></a>&nbsp;&nbsp;
-  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" height="42" alt="GraphQL" /><br/><sub>GraphQL</sub></a>
-</p>
-
-## Selected Project Experience
-
-- **Telemedicine platform:** Experience with a healthcare platform serving approximately 500 patients and 25+ providers.
-- **API performance:** Improved API response times by approximately 40%.
-- **E-commerce migration:** Worked on a WooCommerce-to-Shopify migration involving approximately 500 products.
-
-## Relevant Work
-
-The following links are examples of relevant web and software work. They are shared as portfolio references; project-specific responsibilities can be discussed separately.
-
-- [Henskens Tech](https://henskens-tech.be)
-- [Higher Tech](https://highertech.nl)
-- [OCIT](https://ocit.sa/en)
-- [Devloader](https://devloader.com)
-
-## What I Work On
-
-- AI-powered applications and LLM integrations
-- AI agents, tool calling, and workflow automation
-- Backend systems, APIs, and application architecture
-- RAG pipelines, embeddings, and vector search
-- Full-stack web and mobile applications
-- Cloud deployment, DevOps, and production improvements
+- 🔭 Building full-stack applications and AI-powered solutions
+- 🤖 Exploring AI, LLM integration, and intelligent automation
+- 💻 Developing scalable frontend and backend architectures
+- ☁️ Working with cloud infrastructure and deployment workflows
+- 🌱 Continuously learning and exploring emerging technologies
+- 🤝 Open to collaboration, interesting projects, and open-source contributions
 
 ---
 
-<div align="center">
+## 🧠 Technology Stack
 
-**Building practical software. Integrating useful AI. Shipping reliable systems.**
+### 🤖 AI & Machine Learning
 
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI technologies" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-6C43E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chroma-5B4BDB?style=for-the-badge" />
+</p>
+
+### 💻 Full-Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,fastapi,postgres,mongodb,redis&theme=dark" alt="Full-stack technologies" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,githubactions,linux,nginx,git&theme=dark" alt="Cloud and DevOps technologies" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=reactnative,expo,flutter,dart,kotlin,swift,firebase,supabase,androidstudio&theme=dark" alt="Mobile development technologies" />
+</p>
+
+### 🛒 E-commerce & CMS
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Project Experience
+
+| Project | Description |
+|---|---|
+| Financial Analytics Dashboard | Financial data, analytics, and dashboard functionality |
+| Telemedicine Platform | Healthcare platform supporting approximately 500 patients and 25+ providers |
+| AI-Powered E-commerce | E-commerce applications with AI capabilities |
+| API Performance Optimization | API response-time improvements of approximately 40% |
+| E-commerce Migration | Migration of approximately 500 WooCommerce products to Shopify |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, SaaS founders, entrepreneurs, and people building useful technology.
+
+<p align="left">
+<a href="https://henskens-tech.be">
+<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://highertech.nl">
+<img src="https://img.shields.io/badge/Website-HigherTech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<b>✨ Turning ideas into software. Building technology that makes a difference. 🚀</b>
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:0077FF,70:5B21B6,100:05001A&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cosmic footer" />
+</p>
